@@ -1,4 +1,4 @@
-Intro: An api that allows users to create,read, update, and delete flashcards, connected to a react frontend.
+Intro: An api that allows users to create,read, update, and delete articles, connected to a react frontend.
 
 Setup:
 
